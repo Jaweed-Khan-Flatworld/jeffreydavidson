@@ -16,9 +16,9 @@ issues with Laravel, using the Test Driven Development (TDD) approach to develop
 
 ### 📫 How to reach me:
 
-[<img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/badges/social/linkedin.svg" alt="LinkedIn" style="max-width:100%;">](https://www.linkedin.com/in/jeffrey-davidson-8176205a)
+[<img src="badges/social/linkedin.svg" alt="LinkedIn" style="max-width:100%;">](https://www.linkedin.com/in/jeffrey-davidson-8176205a)
 
-[<img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/badges/social/twitter.svg" alt="Twitter" style="max-width:100%;">](https://twitter.com/jdavidsonwebdev)
+[<img src="badges/social/twitter.svg" alt="Twitter" style="max-width:100%;">](https://twitter.com/jdavidsonwebdev)
 
 ### ⚡ Fun fact:
 
