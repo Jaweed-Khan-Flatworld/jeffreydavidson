@@ -15,10 +15,11 @@ more about server management. I keep up with updates for Laravel and the most re
 issues with Laravel, using the Test Driven Development (TDD) approach to development. If you are looking to collaborate on projects or brainstorm ideas, please reach out to me.
 
 ### 📫 How to reach me:
-
+<p align="left">
 [<img src="badges/social/linkedin.svg" alt="LinkedIn" style="max-width:100%;">](https://www.linkedin.com/in/jeffrey-davidson-8176205a)
 
 [<img src="badges/social/twitter.svg" alt="Twitter" style="max-width:100%;">](https://twitter.com/jdavidsonwebdev)
+</p>
 
 ### ⚡ Fun fact:
 
