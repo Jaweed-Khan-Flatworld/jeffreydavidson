@@ -55,7 +55,6 @@ issues with Laravel, using the Test Driven Development (TDD) approach to develop
 ### Services
 <p align="left">
     <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/services/digitalocean.svg" alt="Digital Ocean" style="max-width:100%;">
-    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/services/dockerhub.svg" alt="Nintendo" style="max-width:100%;">
     <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/services/npm.svg" alt="Npm" style="max-width:100%;">
 </p>
 
