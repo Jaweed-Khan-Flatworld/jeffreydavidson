@@ -17,10 +17,10 @@ issues with Laravel, using the Test Driven Development (TDD) approach to develop
 ### 📫 How to reach me:
 <p align="left">
     <a href="https://www.linkedin.com/in/jeffrey-davidson-8176205a">
-        <img src="badges/social/linkedin.svg" alt="LinkedIn" style="max-width:100%;">
+        <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/social/linkedin.svg" alt="LinkedIn" style="max-width:100%;">
     </a>
     <a href="https://twitter.com/jdavidsonwebdev">
-        <img src="badges/social/twitter.svg" alt="Twitter" style="max-width:100%;">
+        <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/social/twitter.svg" alt="Twitter" style="max-width:100%;">
     </a>
 </p>
 
@@ -28,30 +28,30 @@ issues with Laravel, using the Test Driven Development (TDD) approach to develop
 
 ### Languages
 <p align="left">
-    <img src="badges/languages/html.svg" alt="HTML5" style="max-width:100%;">
-    <img src="badges/languages/js.svg" alt="Javascript" style="max-width:100%;">
-    <img src="badges/languages/php.svg" alt="PHP" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/languages/html.svg" alt="HTML5" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/languages/js.svg" alt="Javascript" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/languages/php.svg" alt="PHP" style="max-width:100%;">
 </p>
 
 ### Frameworks
 <p align="left">
-    <img src="badges/languages/frameworks/angular.svg" alt="LinkedIn" style="max-width:100%;">
-    <img src="badges/languages/frameworks/react.svg" alt="Twitter" style="max-width:100%;">
-    <img src="badges/languages/frameworks/vue.svg" alt="Twitter" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/languages/frameworks/angular.svg" alt="LinkedIn" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/languages/frameworks/react.svg" alt="Twitter" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/languages/frameworks/vue.svg" alt="Twitter" style="max-width:100%;">
 </p>
 
 ### Tools
 <p align="left">
-    <img src="badges/tools/bash.svg" alt="Bash" style="max-width:100%;">
-    <img src="badges/tools/visualstudio_code.svg" alt="Visual Studio Code" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/tools/bash.svg" alt="Bash" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/tools/visualstudio_code.svg" alt="Visual Studio Code" style="max-width:100%;">
 </p>
 
 ### Devices
 <p align="left">
-    <img src="badges/devices/mac.svg" alt="Mac" style="max-width:100%;">
-    <img src="badges/devices/nintendo.svg" alt="Nintendo" style="max-width:100%;">
-    <img src="badges/devices/playstation.svg" alt="Playstation" style="max-width:100%;">
-    <img src="badges/devices/wearables.svg" alt="Wearables" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/devices/mac.svg" alt="Mac" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/devices/nintendo.svg" alt="Nintendo" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/devices/playstation.svg" alt="Playstation" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/devices/wearables.svg" alt="Wearables" style="max-width:100%;">
 </p>
 
 ### ⚡ Fun fact:
