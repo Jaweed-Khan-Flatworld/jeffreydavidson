@@ -28,30 +28,30 @@ issues with Laravel, using the Test Driven Development (TDD) approach to develop
 
 ### Languages
 <p align="left">
-    <img src="badges/social/html5.svg" alt="HTML5" style="max-width:100%;">
-    <img src="badges/social/js.svg" alt="Javascript" style="max-width:100%;">
-    <img src="badges/social/php.svg" alt="PHP" style="max-width:100%;">
+    <img src="badges/languages/html5.svg" alt="HTML5" style="max-width:100%;">
+    <img src="badges/languages/js.svg" alt="Javascript" style="max-width:100%;">
+    <img src="badges/languages/php.svg" alt="PHP" style="max-width:100%;">
 </p>
 
 ### Frameworks
 <p align="left">
-    <img src="badges/social/angular.svg" alt="LinkedIn" style="max-width:100%;">
-    <img src="badges/social/react.svg" alt="Twitter" style="max-width:100%;">
-    <img src="badges/social/vue.svg" alt="Twitter" style="max-width:100%;">
+    <img src="badges/languages/frameworks/angular.svg" alt="LinkedIn" style="max-width:100%;">
+    <img src="badges/languages/frameworks/react.svg" alt="Twitter" style="max-width:100%;">
+    <img src="badges/languages/frameworks/vue.svg" alt="Twitter" style="max-width:100%;">
 </p>
 
 ### Tools
 <p align="left">
-    <img src="badges/social/bash.svg" alt="Bash" style="max-width:100%;">
-    <img src="badges/social/visualstudio_code.svg" alt="Visual Studio Code" style="max-width:100%;">
+    <img src="badges/tools/bash.svg" alt="Bash" style="max-width:100%;">
+    <img src="badges/tools/visualstudio_code.svg" alt="Visual Studio Code" style="max-width:100%;">
 </p>
 
 ### Devices
 <p align="left">
-    <img src="badges/social/mac.svg" alt="Mac" style="max-width:100%;">
-    <img src="badges/social/nintendo.svg" alt="Nintendo" style="max-width:100%;">
-    <img src="badges/social/playstation.svg" alt="Playstation" style="max-width:100%;">
-    <img src="badges/social/wearables.svg" alt="Wearables" style="max-width:100%;">
+    <img src="badges/devices/mac.svg" alt="Mac" style="max-width:100%;">
+    <img src="badges/devices/nintendo.svg" alt="Nintendo" style="max-width:100%;">
+    <img src="badges/devices/playstation.svg" alt="Playstation" style="max-width:100%;">
+    <img src="badges/devices/wearables.svg" alt="Wearables" style="max-width:100%;">
 </p>
 
 ### ⚡ Fun fact:
