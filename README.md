@@ -28,7 +28,7 @@ issues with Laravel, using the Test Driven Development (TDD) approach to develop
 
 ### Languages
 <p align="left">
-    <img src="badges/languages/html5.svg" alt="HTML5" style="max-width:100%;">
+    <img src="badges/languages/html.svg" alt="HTML5" style="max-width:100%;">
     <img src="badges/languages/js.svg" alt="Javascript" style="max-width:100%;">
     <img src="badges/languages/php.svg" alt="PHP" style="max-width:100%;">
 </p>
