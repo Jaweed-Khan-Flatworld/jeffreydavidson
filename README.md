@@ -31,19 +31,32 @@ issues with Laravel, using the Test Driven Development (TDD) approach to develop
     <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/languages/html.svg" alt="HTML5" style="max-width:100%;">
     <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/languages/js.svg" alt="Javascript" style="max-width:100%;">
     <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/languages/php.svg" alt="PHP" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/languages/css3.svg" alt="css3" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/languages/sass.svg" alt="Sass" style="max-width:100%;">
 </p>
 
 ### Frameworks
 <p align="left">
-    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/languages/frameworks/angular.svg" alt="LinkedIn" style="max-width:100%;">
-    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/languages/frameworks/react.svg" alt="Twitter" style="max-width:100%;">
-    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/languages/frameworks/vue.svg" alt="Twitter" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/languages/frameworks/laravel.svg" alt="Laravel" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/languages/frameworks/angular.svg" alt="Angular" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/languages/frameworks/react.svg" alt="React" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/languages/frameworks/vue.svg" alt="Vue" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/languages/frameworks/bootstrap.svg" alt="Bootstrap" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/languages/frameworks/jquery.svg" alt="jQuery" style="max-width:100%;">
 </p>
 
 ### Tools
 <p align="left">
     <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/tools/bash.svg" alt="Bash" style="max-width:100%;">
     <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/tools/visualstudio_code.svg" alt="Visual Studio Code" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/tools/docker.svg" alt="Docker" style="max-width:100%;">
+</p>
+
+### Services
+<p align="left">
+    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/services/digitalocean.svg" alt="Digital Ocean" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/services/dockerhub.svg" alt="Nintendo" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/jeffreydavidson/jeffreydavidson/master/badges/services/npm.svg" alt="Npm" style="max-width:100%;">
 </p>
 
 ### Devices
